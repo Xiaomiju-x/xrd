@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "XRD Embedded Lab Public Status Snapshot",
+  "type": "object",
+  "required": ["release", "devices", "evidence"],
+  "properties": {
+    "release": {
+      "type": "object",
+      "required": ["name", "readonly"],
+      "properties": {
+        "name": { "type": "string" },
+        "readonly": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "devices": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "role", "state", "measured"],
+        "properties": {
+          "id": { "type": "string" },
+          "role": { "type": "string" },
+          "state": { "type": "string" },
+          "measured": { "type": "boolean" },
+          "note": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "category", "status"],
+        "properties": {
+          "name": { "type": "string" },
+          "category": { "type": "string" },
+          "status": { "type": "string" },
+          "summary": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

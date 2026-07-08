@@ -1,0 +1,56 @@
+{
+  "release": {
+    "name": "embedded-preliminary-public-snapshot",
+    "readonly": true
+  },
+  "devices": [
+    {
+      "id": "ai_brain_x5",
+      "role": "material prediction and local inference",
+      "state": "ready",
+      "measured": true,
+      "note": "runs prediction, XRD, spectrum, and evidence services"
+    },
+    {
+      "id": "embodied_brain_x5",
+      "role": "perception, mapping, and shadow planning",
+      "state": "shadow",
+      "measured": true,
+      "note": "publishes risk and gate results without public execution control"
+    },
+    {
+      "id": "fixed_station_arm01",
+      "role": "vision-gated bag pickup",
+      "state": "measured",
+      "measured": true,
+      "note": "observe, identify, return, fixed-point pickup, and drop"
+    },
+    {
+      "id": "f407_station",
+      "role": "bottle actuator sequence",
+      "state": "safety_fallback",
+      "measured": true,
+      "note": "magnet, pusher, servo, and short lift diagnostics are demonstrated"
+    }
+  ],
+  "evidence": [
+    {
+      "name": "slam_grid",
+      "category": "mapping",
+      "status": "measured",
+      "summary": "occupancy grid produced from the laboratory mapping chain"
+    },
+    {
+      "name": "lab_fsd_shadow",
+      "category": "planning",
+      "status": "shadow",
+      "summary": "risk, candidate path, and safety gate result for review"
+    },
+    {
+      "name": "material_prediction",
+      "category": "ai_brain",
+      "status": "measured",
+      "summary": "formula parsing, local inference, verdict, and report trace"
+    }
+  ]
+}
