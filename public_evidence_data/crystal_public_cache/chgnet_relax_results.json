@@ -1,0 +1,417 @@
+{
+  "generated_at": "2026-04-17T01:35:34Z",
+  "model": "CHGNet v0.3 (~0.4M params)",
+  "n_input": 31,
+  "n_ok": 31,
+  "elapsed_total_s": 156.9,
+  "cross_validation_vs_mattersim": {
+    "n_pairs": 31,
+    "r2": 0.7746,
+    "mae_eV": 0.29,
+    "top10_agreement": [
+      {
+        "file": "gen_r4_012.cif",
+        "chgnet_e_per_atom": -3.745542049407959,
+        "mattersim_e_per_atom": -3.748202237215909,
+        "diff_eV": 0.0026601878079501873
+      },
+      {
+        "file": "gen_r4_019.cif",
+        "chgnet_e_per_atom": -4.100863933563232,
+        "mattersim_e_per_atom": -4.061596870422363,
+        "diff_eV": 0.03926706314086914
+      },
+      {
+        "file": "gen_r4_001.cif",
+        "chgnet_e_per_atom": -3.3069584369659424,
+        "mattersim_e_per_atom": -3.2586639404296873,
+        "diff_eV": 0.04829449653625506
+      },
+      {
+        "file": "gen_r4_022.cif",
+        "chgnet_e_per_atom": -2.1035451889038086,
+        "mattersim_e_per_atom": -2.0138977595738004,
+        "diff_eV": 0.08964742933000824
+      },
+      {
+        "file": "gen_r4_007.cif",
+        "chgnet_e_per_atom": -4.284329414367676,
+        "mattersim_e_per_atom": -4.187253679547991,
+        "diff_eV": 0.09707573481968446
+      },
+      {
+        "file": "gen_r4_025.cif",
+        "chgnet_e_per_atom": -4.991798400878906,
+        "mattersim_e_per_atom": -4.8849133943256575,
+        "diff_eV": 0.10688500655324873
+      },
+      {
+        "file": "gen_r4_002.cif",
+        "chgnet_e_per_atom": -4.413578987121582,
+        "mattersim_e_per_atom": -4.304956224229601,
+        "diff_eV": 0.10862276289198114
+      },
+      {
+        "file": "gen_r4_027.cif",
+        "chgnet_e_per_atom": -4.603265762329102,
+        "mattersim_e_per_atom": -4.481283950805664,
+        "diff_eV": 0.12198181152343768
+      },
+      {
+        "file": "gen_r4_009.cif",
+        "chgnet_e_per_atom": -4.79991340637207,
+        "mattersim_e_per_atom": -4.677868270874024,
+        "diff_eV": 0.12204513549804652
+      },
+      {
+        "file": "gen_r4_023.cif",
+        "chgnet_e_per_atom": -4.368031024932861,
+        "mattersim_e_per_atom": -4.227317810058594,
+        "diff_eV": 0.14071321487426758
+      }
+    ],
+    "top10_disagreement": [
+      {
+        "file": "gen_r4_006.cif",
+        "chgnet_e_per_atom": -4.3262763023376465,
+        "mattersim_e_per_atom": -0.9932097792625427,
+        "diff_eV": 3.3330665230751038
+      },
+      {
+        "file": "gen_r4_016.cif",
+        "chgnet_e_per_atom": -7.240011215209961,
+        "mattersim_e_per_atom": -6.846388244628907,
+        "diff_eV": 0.39362297058105433
+      },
+      {
+        "file": "gen_r4_010.cif",
+        "chgnet_e_per_atom": -5.460275173187256,
+        "mattersim_e_per_atom": -5.070376078287761,
+        "diff_eV": 0.38989909489949515
+      },
+      {
+        "file": "gen_r4_005.cif",
+        "chgnet_e_per_atom": -6.059480667114258,
+        "mattersim_e_per_atom": -5.683358328683036,
+        "diff_eV": 0.3761223384312222
+      },
+      {
+        "file": "gen_r4_003.cif",
+        "chgnet_e_per_atom": -7.2005157470703125,
+        "mattersim_e_per_atom": -6.868330383300782,
+        "diff_eV": 0.3321853637695309
+      },
+      {
+        "file": "gen_r4_030.cif",
+        "chgnet_e_per_atom": -6.678038597106934,
+        "mattersim_e_per_atom": -6.4017784118652346,
+        "diff_eV": 0.27626018524169904
+      },
+      {
+        "file": "gen_r4_020.cif",
+        "chgnet_e_per_atom": -5.353156089782715,
+        "mattersim_e_per_atom": -5.082094192504883,
+        "diff_eV": 0.27106189727783203
+      },
+      {
+        "file": "gen_r4_013.cif",
+        "chgnet_e_per_atom": -3.4078609943389893,
+        "mattersim_e_per_atom": -3.1572406768798826,
+        "diff_eV": 0.2506203174591066
+      },
+      {
+        "file": "gen_r4_000.cif",
+        "chgnet_e_per_atom": -5.158838748931885,
+        "mattersim_e_per_atom": -4.912898699442546,
+        "diff_eV": 0.2459400494893389
+      },
+      {
+        "file": "gen_r4_004.cif",
+        "chgnet_e_per_atom": -4.451592922210693,
+        "mattersim_e_per_atom": -4.227600574493408,
+        "diff_eV": 0.22399234771728516
+      }
+    ]
+  },
+  "results": [
+    {
+      "file": "gen_r4_000.cif",
+      "n_atoms": 6,
+      "e_before_total": -30.069150924682617,
+      "e_after_eV": -30.95303249359131,
+      "e_per_atom_eV": -5.158838748931885,
+      "elapsed_s": 5.23,
+      "trajectory_steps": 64
+    },
+    {
+      "file": "gen_r4_001.cif",
+      "n_atoms": 10,
+      "e_before_total": -21.117873191833496,
+      "e_after_eV": -33.069584369659424,
+      "e_per_atom_eV": -3.3069584369659424,
+      "elapsed_s": 6.77,
+      "trajectory_steps": 87
+    },
+    {
+      "file": "gen_r4_002.cif",
+      "n_atoms": 9,
+      "e_before_total": -39.44071626663208,
+      "e_after_eV": -39.72221088409424,
+      "e_per_atom_eV": -4.413578987121582,
+      "elapsed_s": 2.8,
+      "trajectory_steps": 35
+    },
+    {
+      "file": "gen_r4_003.cif",
+      "n_atoms": 15,
+      "e_before_total": -106.7711877822876,
+      "e_after_eV": -108.00773620605469,
+      "e_per_atom_eV": -7.2005157470703125,
+      "elapsed_s": 6.37,
+      "trajectory_steps": 79
+    },
+    {
+      "file": "gen_r4_004.cif",
+      "n_atoms": 8,
+      "e_before_total": -33.16708755493164,
+      "e_after_eV": -35.61274337768555,
+      "e_per_atom_eV": -4.451592922210693,
+      "elapsed_s": 13.09,
+      "trajectory_steps": 168
+    },
+    {
+      "file": "gen_r4_005.cif",
+      "n_atoms": 14,
+      "e_before_total": -84.26927852630615,
+      "e_after_eV": -84.83272933959961,
+      "e_per_atom_eV": -6.059480667114258,
+      "elapsed_s": 2.85,
+      "trajectory_steps": 37
+    },
+    {
+      "file": "gen_r4_006.cif",
+      "n_atoms": 4,
+      "e_before_total": -10.126165390014648,
+      "e_after_eV": -17.305105209350586,
+      "e_per_atom_eV": -4.3262763023376465,
+      "elapsed_s": 5.91,
+      "trajectory_steps": 78
+    },
+    {
+      "file": "gen_r4_007.cif",
+      "n_atoms": 7,
+      "e_before_total": -27.71926259994507,
+      "e_after_eV": -29.99030590057373,
+      "e_per_atom_eV": -4.284329414367676,
+      "elapsed_s": 4.4,
+      "trajectory_steps": 57
+    },
+    {
+      "file": "gen_r4_008.cif",
+      "n_atoms": 10,
+      "e_before_total": -48.456969261169434,
+      "e_after_eV": -48.50682258605957,
+      "e_per_atom_eV": -4.850682258605957,
+      "elapsed_s": 1.45,
+      "trajectory_steps": 19
+    },
+    {
+      "file": "gen_r4_009.cif",
+      "n_atoms": 5,
+      "e_before_total": -23.988802433013916,
+      "e_after_eV": -23.99956703186035,
+      "e_per_atom_eV": -4.79991340637207,
+      "elapsed_s": 0.9,
+      "trajectory_steps": 11
+    },
+    {
+      "file": "gen_r4_010.cif",
+      "n_atoms": 6,
+      "e_before_total": -26.31836700439453,
+      "e_after_eV": -32.761651039123535,
+      "e_per_atom_eV": -5.460275173187256,
+      "elapsed_s": 14.22,
+      "trajectory_steps": 184
+    },
+    {
+      "file": "gen_r4_011.cif",
+      "n_atoms": 18,
+      "e_before_total": -44.00505495071411,
+      "e_after_eV": -72.6785774230957,
+      "e_per_atom_eV": -4.037698745727539,
+      "elapsed_s": 8.49,
+      "trajectory_steps": 113
+    },
+    {
+      "file": "gen_r4_012.cif",
+      "n_atoms": 11,
+      "e_before_total": -38.82271146774292,
+      "e_after_eV": -41.20096254348755,
+      "e_per_atom_eV": -3.745542049407959,
+      "elapsed_s": 5.35,
+      "trajectory_steps": 72
+    },
+    {
+      "file": "gen_r4_013.cif",
+      "n_atoms": 10,
+      "e_before_total": -18.12626600265503,
+      "e_after_eV": -34.07860994338989,
+      "e_per_atom_eV": -3.4078609943389893,
+      "elapsed_s": 5.15,
+      "trajectory_steps": 67
+    },
+    {
+      "file": "gen_r4_014.cif",
+      "n_atoms": 12,
+      "e_before_total": -58.88731384277344,
+      "e_after_eV": -60.43413162231445,
+      "e_per_atom_eV": -5.036177635192871,
+      "elapsed_s": 5.69,
+      "trajectory_steps": 74
+    },
+    {
+      "file": "gen_r4_015.cif",
+      "n_atoms": 20,
+      "e_before_total": -101.07988357543945,
+      "e_after_eV": -109.7763729095459,
+      "e_per_atom_eV": -5.488818645477295,
+      "elapsed_s": 6.5,
+      "trajectory_steps": 89
+    },
+    {
+      "file": "gen_r4_016.cif",
+      "n_atoms": 20,
+      "e_before_total": -143.17757606506348,
+      "e_after_eV": -144.80022430419922,
+      "e_per_atom_eV": -7.240011215209961,
+      "elapsed_s": 4.47,
+      "trajectory_steps": 64
+    },
+    {
+      "file": "gen_r4_017.cif",
+      "n_atoms": 12,
+      "e_before_total": -61.086782455444336,
+      "e_after_eV": -61.755781173706055,
+      "e_per_atom_eV": -5.146315097808838,
+      "elapsed_s": 3.42,
+      "trajectory_steps": 45
+    },
+    {
+      "file": "gen_r4_018.cif",
+      "n_atoms": 16,
+      "e_before_total": -76.43614959716797,
+      "e_after_eV": -77.01030731201172,
+      "e_per_atom_eV": -4.813144207000732,
+      "elapsed_s": 5.36,
+      "trajectory_steps": 70
+    },
+    {
+      "file": "gen_r4_019.cif",
+      "n_atoms": 6,
+      "e_before_total": -23.054489135742188,
+      "e_after_eV": -24.605183601379395,
+      "e_per_atom_eV": -4.100863933563232,
+      "elapsed_s": 5.05,
+      "trajectory_steps": 67
+    },
+    {
+      "file": "gen_r4_020.cif",
+      "n_atoms": 8,
+      "e_before_total": -42.333396911621094,
+      "e_after_eV": -42.82524871826172,
+      "e_per_atom_eV": -5.353156089782715,
+      "elapsed_s": 3.19,
+      "trajectory_steps": 41
+    },
+    {
+      "file": "gen_r4_021.cif",
+      "n_atoms": 18,
+      "e_before_total": -83.50626468658447,
+      "e_after_eV": -84.46313953399658,
+      "e_per_atom_eV": -4.692396640777588,
+      "elapsed_s": 4.37,
+      "trajectory_steps": 55
+    },
+    {
+      "file": "gen_r4_022.cif",
+      "n_atoms": 14,
+      "e_before_total": -19.555959939956665,
+      "e_after_eV": -29.44963264465332,
+      "e_per_atom_eV": -2.1035451889038086,
+      "elapsed_s": 4.03,
+      "trajectory_steps": 55
+    },
+    {
+      "file": "gen_r4_023.cif",
+      "n_atoms": 6,
+      "e_before_total": -23.54833745956421,
+      "e_after_eV": -26.208186149597168,
+      "e_per_atom_eV": -4.368031024932861,
+      "elapsed_s": 5.2,
+      "trajectory_steps": 73
+    },
+    {
+      "file": "gen_r4_024.cif",
+      "n_atoms": 15,
+      "e_before_total": -69.52554702758789,
+      "e_after_eV": -70.09986877441406,
+      "e_per_atom_eV": -4.6733245849609375,
+      "elapsed_s": 3.98,
+      "trajectory_steps": 56
+    },
+    {
+      "file": "gen_r4_025.cif",
+      "n_atoms": 19,
+      "e_before_total": -86.38145637512207,
+      "e_after_eV": -94.84416961669922,
+      "e_per_atom_eV": -4.991798400878906,
+      "elapsed_s": 5.62,
+      "trajectory_steps": 75
+    },
+    {
+      "file": "gen_r4_026.cif",
+      "n_atoms": 12,
+      "e_before_total": -50.918060302734375,
+      "e_after_eV": -51.41011619567871,
+      "e_per_atom_eV": -4.284176349639893,
+      "elapsed_s": 3.3,
+      "trajectory_steps": 42
+    },
+    {
+      "file": "gen_r4_027.cif",
+      "n_atoms": 20,
+      "e_before_total": -91.5352725982666,
+      "e_after_eV": -92.06531524658203,
+      "e_per_atom_eV": -4.603265762329102,
+      "elapsed_s": 3.18,
+      "trajectory_steps": 43
+    },
+    {
+      "file": "gen_r4_028.cif",
+      "n_atoms": 10,
+      "e_before_total": -25.29344081878662,
+      "e_after_eV": -29.383978843688965,
+      "e_per_atom_eV": -2.9383978843688965,
+      "elapsed_s": 2.58,
+      "trajectory_steps": 45
+    },
+    {
+      "file": "gen_r4_029.cif",
+      "n_atoms": 9,
+      "e_before_total": -45.57632303237915,
+      "e_after_eV": -46.27619504928589,
+      "e_per_atom_eV": -5.141799449920654,
+      "elapsed_s": 4.08,
+      "trajectory_steps": 55
+    },
+    {
+      "file": "gen_r4_030.cif",
+      "n_atoms": 10,
+      "e_before_total": -65.6821870803833,
+      "e_after_eV": -66.78038597106934,
+      "e_per_atom_eV": -6.678038597106934,
+      "elapsed_s": 3.85,
+      "trajectory_steps": 50
+    }
+  ]
+}

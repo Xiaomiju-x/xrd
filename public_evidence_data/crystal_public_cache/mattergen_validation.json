@@ -1,0 +1,1986 @@
+{
+  "total": 105,
+  "generated_at": "2026-04-16T12:15:42Z",
+  "verdicts": {
+    "GO": 10,
+    "REVISE": 95
+  },
+  "results": [
+    {
+      "formula": "Y2Al3Ga3O12",
+      "source": "mattergen_nir",
+      "file": "gen_0.cif",
+      "trace_id": "sha1:b517dc370650",
+      "verdict": "GO",
+      "confidence": 0.7,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al5GaO12",
+      "source": "mattergen_nir",
+      "file": "gen_10.cif",
+      "trace_id": "sha1:0e24a249d074",
+      "verdict": "GO",
+      "confidence": 0.7,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al2Ga2O9",
+      "source": "mattergen_nir",
+      "file": "gen_116.cif",
+      "trace_id": "sha1:6f7a771d93ea",
+      "verdict": "GO",
+      "confidence": 0.7,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al2Ga4O12",
+      "source": "mattergen_nir",
+      "file": "gen_125.cif",
+      "trace_id": "sha1:388ade80f74b",
+      "verdict": "GO",
+      "confidence": 0.7,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2AlGaO6",
+      "source": "mattergen_nir",
+      "file": "gen_129.cif",
+      "trace_id": "sha1:c7f5b7418a16",
+      "verdict": "GO",
+      "confidence": 0.7,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al4Ga2O12",
+      "source": "mattergen_nir",
+      "file": "gen_133.cif",
+      "trace_id": "sha1:d056b92338b3",
+      "verdict": "GO",
+      "confidence": 0.7,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAlGa2O6",
+      "source": "mattergen_nir",
+      "file": "gen_140.cif",
+      "trace_id": "sha1:113188377103",
+      "verdict": "GO",
+      "confidence": 0.7,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al3GaO9",
+      "source": "mattergen_nir",
+      "file": "gen_165.cif",
+      "trace_id": "sha1:c07257a847b0",
+      "verdict": "GO",
+      "confidence": 0.7,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al2O6",
+      "source": "mattergen_nir",
+      "file": "gen_190.cif",
+      "trace_id": "sha1:0ef89f850ac9",
+      "verdict": "GO",
+      "confidence": 0.7,
+      "lambda_em_nm": 755.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y3Al2GaO9",
+      "source": "mattergen_nir",
+      "file": "gen_34.cif",
+      "trace_id": "sha1:8a5fb6b9a063",
+      "verdict": "GO",
+      "confidence": 0.7,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al3Ga2O11",
+      "source": "mattergen_nir",
+      "file": "gen_1.cif",
+      "trace_id": "sha1:f57675a2566d",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2AlGa2O3",
+      "source": "mattergen_nir",
+      "file": "gen_100.cif",
+      "trace_id": "sha1:c4d504257b0e",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y4Ga4O2",
+      "source": "mattergen_nir",
+      "file": "gen_101.cif",
+      "trace_id": "sha1:678415a4522e",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.996616542339325,
+      "dopant_site": "Ga"
+    },
+    {
+      "formula": "Y6AlGaO2",
+      "source": "mattergen_nir",
+      "file": "gen_102.cif",
+      "trace_id": "sha1:b7b2b571631c",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y4AlGaO2",
+      "source": "mattergen_nir",
+      "file": "gen_103.cif",
+      "trace_id": "sha1:552a10c4ba83",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y6Al4Ga3O7",
+      "source": "mattergen_nir",
+      "file": "gen_104.cif",
+      "trace_id": "sha1:a38284f934fc",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al2Ga2O",
+      "source": "mattergen_nir",
+      "file": "gen_105.cif",
+      "trace_id": "sha1:781a2ee6a56e",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAl3GaO",
+      "source": "mattergen_nir",
+      "file": "gen_106.cif",
+      "trace_id": "sha1:52e8e647d0dc",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAlGaO",
+      "source": "mattergen_nir",
+      "file": "gen_107.cif",
+      "trace_id": "sha1:fba0890ba72b",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y4Al2GaO2",
+      "source": "mattergen_nir",
+      "file": "gen_108.cif",
+      "trace_id": "sha1:a0ee21e5da32",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2AlGaO2",
+      "source": "mattergen_nir",
+      "file": "gen_11.cif",
+      "trace_id": "sha1:9cbbaed493f4",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al2Ga2O8",
+      "source": "mattergen_nir",
+      "file": "gen_110.cif",
+      "trace_id": "sha1:321ae119fb8c",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Al2Ga3O7",
+      "source": "mattergen_nir",
+      "file": "gen_112.cif",
+      "trace_id": "sha1:0c703803ebe7",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": null,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": null,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962596893310547,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAl2Ga2O7",
+      "source": "mattergen_nir",
+      "file": "gen_113.cif",
+      "trace_id": "sha1:49fa60fa4b74",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y4GaO2",
+      "source": "mattergen_nir",
+      "file": "gen_115.cif",
+      "trace_id": "sha1:e5113c43f1db",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.996616542339325,
+      "dopant_site": "Ga"
+    },
+    {
+      "formula": "YAlGa2O5",
+      "source": "mattergen_nir",
+      "file": "gen_118.cif",
+      "trace_id": "sha1:9d042167d304",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YGaO2",
+      "source": "mattergen_nir",
+      "file": "gen_12.cif",
+      "trace_id": "sha1:590eadead50d",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.996616542339325,
+      "dopant_site": "Ga"
+    },
+    {
+      "formula": "Y8AlGa3O2",
+      "source": "mattergen_nir",
+      "file": "gen_120.cif",
+      "trace_id": "sha1:d04b8c9ec295",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al2GaO",
+      "source": "mattergen_nir",
+      "file": "gen_121.cif",
+      "trace_id": "sha1:46f89a8ee51b",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al3Ga2O3",
+      "source": "mattergen_nir",
+      "file": "gen_123.cif",
+      "trace_id": "sha1:9493275a1540",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al2Ga2O2",
+      "source": "mattergen_nir",
+      "file": "gen_126.cif",
+      "trace_id": "sha1:a68d40aba5ff",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y4Al2Ga2O2",
+      "source": "mattergen_nir",
+      "file": "gen_127.cif",
+      "trace_id": "sha1:c9f38d130902",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y6AlGa2O2",
+      "source": "mattergen_nir",
+      "file": "gen_13.cif",
+      "trace_id": "sha1:4e13c88fd8bc",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y4Al3Ga3O7",
+      "source": "mattergen_nir",
+      "file": "gen_131.cif",
+      "trace_id": "sha1:930cb7fceca8",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAlGaO6",
+      "source": "mattergen_nir",
+      "file": "gen_135.cif",
+      "trace_id": "sha1:bd84c3629cbe",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAl2Ga2O",
+      "source": "mattergen_nir",
+      "file": "gen_137.cif",
+      "trace_id": "sha1:94a55a847896",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2AlO",
+      "source": "mattergen_nir",
+      "file": "gen_138.cif",
+      "trace_id": "sha1:ef79bf616dd4",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 755.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y8Al4Ga2O2",
+      "source": "mattergen_nir",
+      "file": "gen_142.cif",
+      "trace_id": "sha1:0ada3e51ec17",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y3AlGa2O2",
+      "source": "mattergen_nir",
+      "file": "gen_144.cif",
+      "trace_id": "sha1:2abf49f74233",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Ga2O7",
+      "source": "mattergen_nir",
+      "file": "gen_145.cif",
+      "trace_id": "sha1:a187cb0db437",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.996616542339325,
+      "dopant_site": "Ga"
+    },
+    {
+      "formula": "YAlGa2O8",
+      "source": "mattergen_nir",
+      "file": "gen_147.cif",
+      "trace_id": "sha1:af7d6faea768",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "AlGaO2",
+      "source": "mattergen_nir",
+      "file": "gen_149.cif",
+      "trace_id": "sha1:af517565fae9",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": null,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": null,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962596893310547,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YGa2O",
+      "source": "mattergen_nir",
+      "file": "gen_15.cif",
+      "trace_id": "sha1:66d1f1f47065",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.996616542339325,
+      "dopant_site": "Ga"
+    },
+    {
+      "formula": "YAl3GaO7",
+      "source": "mattergen_nir",
+      "file": "gen_150.cif",
+      "trace_id": "sha1:faf155c5237b",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al6GaO7",
+      "source": "mattergen_nir",
+      "file": "gen_152.cif",
+      "trace_id": "sha1:d2fea09edf6c",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y3Al2Ga3O4",
+      "source": "mattergen_nir",
+      "file": "gen_153.cif",
+      "trace_id": "sha1:01cae12d2751",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y6Ga3O",
+      "source": "mattergen_nir",
+      "file": "gen_155.cif",
+      "trace_id": "sha1:dccc7bba8da4",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.996616542339325,
+      "dopant_site": "Ga"
+    },
+    {
+      "formula": "Y8AlGa3O4",
+      "source": "mattergen_nir",
+      "file": "gen_156.cif",
+      "trace_id": "sha1:698e9395f7f8",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y4AlGa2O",
+      "source": "mattergen_nir",
+      "file": "gen_158.cif",
+      "trace_id": "sha1:5655ea01c37b",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al3Ga3O11",
+      "source": "mattergen_nir",
+      "file": "gen_16.cif",
+      "trace_id": "sha1:9413ca1393e4",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y3AlGaO3",
+      "source": "mattergen_nir",
+      "file": "gen_160.cif",
+      "trace_id": "sha1:9bfe84591135",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y6AlGaO",
+      "source": "mattergen_nir",
+      "file": "gen_161.cif",
+      "trace_id": "sha1:873de27efc15",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2GaO",
+      "source": "mattergen_nir",
+      "file": "gen_162.cif",
+      "trace_id": "sha1:4e2a8705cf7e",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.996616542339325,
+      "dopant_site": "Ga"
+    },
+    {
+      "formula": "YAlGa2O2",
+      "source": "mattergen_nir",
+      "file": "gen_163.cif",
+      "trace_id": "sha1:b95f8a35e8a1",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y6Al2Ga2O",
+      "source": "mattergen_nir",
+      "file": "gen_169.cif",
+      "trace_id": "sha1:291f54c987f1",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAlGaO5",
+      "source": "mattergen_nir",
+      "file": "gen_17.cif",
+      "trace_id": "sha1:9b9994d4ba43",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al2O2",
+      "source": "mattergen_nir",
+      "file": "gen_170.cif",
+      "trace_id": "sha1:feb193805ae1",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 755.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y8Al2Ga2O2",
+      "source": "mattergen_nir",
+      "file": "gen_173.cif",
+      "trace_id": "sha1:c22bd3fe263f",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al2Ga3O11",
+      "source": "mattergen_nir",
+      "file": "gen_176.cif",
+      "trace_id": "sha1:f5d5eeb8550c",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAl3Ga2O6",
+      "source": "mattergen_nir",
+      "file": "gen_177.cif",
+      "trace_id": "sha1:65a274dff615",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y3Al2Ga2O11",
+      "source": "mattergen_nir",
+      "file": "gen_178.cif",
+      "trace_id": "sha1:f601c56619ba",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y3Al2Ga2O5",
+      "source": "mattergen_nir",
+      "file": "gen_181.cif",
+      "trace_id": "sha1:37f46ebcaa69",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAl2O6",
+      "source": "mattergen_nir",
+      "file": "gen_182.cif",
+      "trace_id": "sha1:2692bf25d459",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 755.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2AlGaO",
+      "source": "mattergen_nir",
+      "file": "gen_184.cif",
+      "trace_id": "sha1:3f6a22d314dd",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y4Al2Ga2O10",
+      "source": "mattergen_nir",
+      "file": "gen_185.cif",
+      "trace_id": "sha1:ee2fbc908b4b",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al2O",
+      "source": "mattergen_nir",
+      "file": "gen_188.cif",
+      "trace_id": "sha1:74765d30107b",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 755.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2AlGa3O2",
+      "source": "mattergen_nir",
+      "file": "gen_19.cif",
+      "trace_id": "sha1:0810ee123fcc",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y6Al2Ga2O2",
+      "source": "mattergen_nir",
+      "file": "gen_191.cif",
+      "trace_id": "sha1:3a26e8fec0dd",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y3AlGa2O6",
+      "source": "mattergen_nir",
+      "file": "gen_194.cif",
+      "trace_id": "sha1:5f23bcf13eff",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAl2GaO2",
+      "source": "mattergen_nir",
+      "file": "gen_196.cif",
+      "trace_id": "sha1:0ce5d6d2a414",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAlGa4O6",
+      "source": "mattergen_nir",
+      "file": "gen_198.cif",
+      "trace_id": "sha1:93c5ed4890b2",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAl4Ga2O9",
+      "source": "mattergen_nir",
+      "file": "gen_204.cif",
+      "trace_id": "sha1:a41dae9bc917",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y3Al4Ga4O2",
+      "source": "mattergen_nir",
+      "file": "gen_206.cif",
+      "trace_id": "sha1:56b2d7f643b5",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y3GaO",
+      "source": "mattergen_nir",
+      "file": "gen_207.cif",
+      "trace_id": "sha1:2be7dc5e17cf",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.996616542339325,
+      "dopant_site": "Ga"
+    },
+    {
+      "formula": "Y2Al2GaO3",
+      "source": "mattergen_nir",
+      "file": "gen_211.cif",
+      "trace_id": "sha1:8e429813ff0d",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Ga4O2",
+      "source": "mattergen_nir",
+      "file": "gen_217.cif",
+      "trace_id": "sha1:de7b9fd72f74",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.996616542339325,
+      "dopant_site": "Ga"
+    },
+    {
+      "formula": "Y6AlGa3O2",
+      "source": "mattergen_nir",
+      "file": "gen_218.cif",
+      "trace_id": "sha1:bbba4114ab30",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y7Al2GaO2",
+      "source": "mattergen_nir",
+      "file": "gen_220.cif",
+      "trace_id": "sha1:cf24fb522483",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y4AlGa2O6",
+      "source": "mattergen_nir",
+      "file": "gen_223.cif",
+      "trace_id": "sha1:716c0b69e00b",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "AlGaO4",
+      "source": "mattergen_nir",
+      "file": "gen_24.cif",
+      "trace_id": "sha1:0aad2ba8e334",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": null,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": null,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962596893310547,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAl2Ga3O6",
+      "source": "mattergen_nir",
+      "file": "gen_26.cif",
+      "trace_id": "sha1:4908623d2e81",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al3GaO",
+      "source": "mattergen_nir",
+      "file": "gen_28.cif",
+      "trace_id": "sha1:cde9f7fa8433",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAl3Ga3O12",
+      "source": "mattergen_nir",
+      "file": "gen_3.cif",
+      "trace_id": "sha1:dc53bda7f3e8",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y4Al2Ga2O3",
+      "source": "mattergen_nir",
+      "file": "gen_42.cif",
+      "trace_id": "sha1:3e57e3e2db79",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y3AlGaO7",
+      "source": "mattergen_nir",
+      "file": "gen_43.cif",
+      "trace_id": "sha1:c80d8c9b9667",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al2Ga3O",
+      "source": "mattergen_nir",
+      "file": "gen_45.cif",
+      "trace_id": "sha1:973209b67ffb",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAlGa2O4",
+      "source": "mattergen_nir",
+      "file": "gen_46.cif",
+      "trace_id": "sha1:3f807f8b96a0",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y3Al2GaO8",
+      "source": "mattergen_nir",
+      "file": "gen_49.cif",
+      "trace_id": "sha1:427a39669454",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al2GaO7",
+      "source": "mattergen_nir",
+      "file": "gen_54.cif",
+      "trace_id": "sha1:e291be079eee",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al2Ga2O10",
+      "source": "mattergen_nir",
+      "file": "gen_59.cif",
+      "trace_id": "sha1:7edee7767f90",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y4Al3Ga6O",
+      "source": "mattergen_nir",
+      "file": "gen_6.cif",
+      "trace_id": "sha1:5c8c8f9afaa8",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y6AlGa2O3",
+      "source": "mattergen_nir",
+      "file": "gen_61.cif",
+      "trace_id": "sha1:1fc13de5287b",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "YAl2GaO4",
+      "source": "mattergen_nir",
+      "file": "gen_67.cif",
+      "trace_id": "sha1:ad672fba4df9",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y7AlGa2O2",
+      "source": "mattergen_nir",
+      "file": "gen_69.cif",
+      "trace_id": "sha1:6284011eb6d3",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y7Al2O",
+      "source": "mattergen_nir",
+      "file": "gen_70.cif",
+      "trace_id": "sha1:379df69a6ae4",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 755.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y4Al2O",
+      "source": "mattergen_nir",
+      "file": "gen_71.cif",
+      "trace_id": "sha1:716555ab1931",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 755.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y3Al2Ga2O9",
+      "source": "mattergen_nir",
+      "file": "gen_73.cif",
+      "trace_id": "sha1:98ab43560752",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2AlGa2O",
+      "source": "mattergen_nir",
+      "file": "gen_81.cif",
+      "trace_id": "sha1:c41e5946bbfb",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y2Al3Ga2O",
+      "source": "mattergen_nir",
+      "file": "gen_83.cif",
+      "trace_id": "sha1:869c6d572482",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y6Al2Ga3O",
+      "source": "mattergen_nir",
+      "file": "gen_92.cif",
+      "trace_id": "sha1:d3782ed1fab2",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y3AlGa2O",
+      "source": "mattergen_nir",
+      "file": "gen_96.cif",
+      "trace_id": "sha1:5d4d75805b5b",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Y5AlGa2O",
+      "source": "mattergen_nir",
+      "file": "gen_98.cif",
+      "trace_id": "sha1:25cb582cc296",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 789.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9962952733039856,
+      "dopant_site": "Al"
+    },
+    {
+      "formula": "Mg2Ti2O8Fe2",
+      "source": "mattergen_base",
+      "file": "gen_206.cif",
+      "trace_id": "sha1:0dd066ae4d38",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 758.0,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": 130.0,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "dopant_valence_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9956609606742859,
+      "dopant_site": "Ti"
+    },
+    {
+      "formula": "Sc2OTb2",
+      "source": "mattergen_base",
+      "file": "gen_210.cif",
+      "trace_id": "sha1:0e0105bfc7f6",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": null,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": null,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance",
+        "low_analog_similarity",
+        "dopant_radius_warning"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.9960315823554993,
+      "dopant_site": "Sc"
+    },
+    {
+      "formula": "Ga2O12Pr6",
+      "source": "mattergen_base",
+      "file": "gen_222.cif",
+      "trace_id": "sha1:9749181b4965",
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": null,
+      "excitation_peaks_nm": null,
+      "fwhm_nm": null,
+      "thermal_stability_pct": null,
+      "flags": [
+        "charge_imbalance"
+      ],
+      "bpu_xrd_label": "non_garnet",
+      "bpu_xrd_prob": 0.996616542339325,
+      "dopant_site": "Ga"
+    }
+  ]
+}

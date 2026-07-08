@@ -1,0 +1,1158 @@
+{
+  "generated_at": "2026-04-17T00:56:20Z",
+  "total": 31,
+  "elapsed_s": 70.3,
+  "verdicts": {
+    "REVISE": 31
+  },
+  "results": [
+    {
+      "formula": "Y3GdScAlGaCaMgSiGeO4",
+      "formula_raw": "AlCaGaGdGeMgO4ScSiY3",
+      "file": "gen_r4_003.cif",
+      "elements": [
+        "Al",
+        "Ca",
+        "Ga",
+        "Gd",
+        "Ge",
+        "Mg",
+        "O",
+        "Sc",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:aa37e802bd45",
+      "e_per_atom_eV": -6.868330383300782,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.03474262356758118,
+      "stability_rank": 1,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -7.2005157470703125,
+      "potential_agreement_meV": 332.1853637695309
+    },
+    {
+      "formula": "Y2AlGa2Ca2MgGeO11",
+      "formula_raw": "AlCa2Ga2GeMgO11Y2",
+      "file": "gen_r4_016.cif",
+      "elements": [
+        "Al",
+        "Ca",
+        "Ga",
+        "Ge",
+        "Mg",
+        "O",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:87a052188281",
+      "e_per_atom_eV": -6.846388244628907,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.03977718949317932,
+      "stability_rank": 2,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -7.240011215209961,
+      "potential_agreement_meV": 393.62297058105435
+    },
+    {
+      "formula": "YScAl2CaMgO4",
+      "formula_raw": "Al2CaMgO4ScY",
+      "file": "gen_r4_030.cif",
+      "elements": [
+        "Al",
+        "Ca",
+        "Mg",
+        "O",
+        "Sc",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Al",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 755.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:61af3e225d61",
+      "e_per_atom_eV": -6.4017784118652346,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.035042017698287964,
+      "stability_rank": 3,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -6.678038597106934,
+      "potential_agreement_meV": 276.26018524169905
+    },
+    {
+      "formula": "YGdScGaMg3Si4GeO2",
+      "formula_raw": "GaGdGeMg3O2ScSi4Y",
+      "file": "gen_r4_005.cif",
+      "elements": [
+        "Ga",
+        "Gd",
+        "Ge",
+        "Mg",
+        "O",
+        "Sc",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 63.4,
+      "flag_severity": "error",
+      "n_flags": 2,
+      "trace_id": "sha1:f084c39c3ce7",
+      "e_per_atom_eV": -5.683358328683036,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.028474275022745132,
+      "stability_rank": 4,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -6.059480667114258,
+      "potential_agreement_meV": 376.1223384312222
+    },
+    {
+      "formula": "Y4ScGa4CaMg4Si2O4",
+      "formula_raw": "CaGa4Mg4O4ScSi2Y4",
+      "file": "gen_r4_015.cif",
+      "elements": [
+        "Ca",
+        "Ga",
+        "Mg",
+        "O",
+        "Sc",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:a594cf2ee12c",
+      "e_per_atom_eV": -5.325662231445312,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.04312616586685181,
+      "stability_rank": 5,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -5.488818645477295,
+      "potential_agreement_meV": 163.15641403198276
+    },
+    {
+      "formula": "YAlGaMg2GeO2",
+      "formula_raw": "AlGaGeMg2O2Y",
+      "file": "gen_r4_020.cif",
+      "elements": [
+        "Al",
+        "Ga",
+        "Ge",
+        "Mg",
+        "O",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 71.6,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:e9a889e962f8",
+      "e_per_atom_eV": -5.082094192504883,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.03178517520427704,
+      "stability_rank": 6,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -5.353156089782715,
+      "potential_agreement_meV": 271.06189727783203
+    },
+    {
+      "formula": "AlMg2GeO2",
+      "formula_raw": "AlGeMg2O2",
+      "file": "gen_r4_010.cif",
+      "elements": [
+        "Al",
+        "Ge",
+        "Mg",
+        "O"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Al",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": null,
+      "thermal_stability_pct": null,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:805d7361d49d",
+      "e_per_atom_eV": -5.070376078287761,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.04939807951450348,
+      "stability_rank": 7,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -5.460275173187256,
+      "potential_agreement_meV": 389.89909489949514
+    },
+    {
+      "formula": "Y2ScGa2CaMg3SiO2",
+      "formula_raw": "CaGa2Mg3O2ScSiY2",
+      "file": "gen_r4_017.cif",
+      "elements": [
+        "Ca",
+        "Ga",
+        "Mg",
+        "O",
+        "Sc",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:9b173a96724f",
+      "e_per_atom_eV": -4.970407485961914,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.034462302923202515,
+      "stability_rank": 8,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -5.146315097808838,
+      "potential_agreement_meV": 175.90761184692383
+    },
+    {
+      "formula": "YAlGaCaMg2SiO2",
+      "formula_raw": "AlCaGaMg2O2SiY",
+      "file": "gen_r4_029.cif",
+      "elements": [
+        "Al",
+        "Ca",
+        "Ga",
+        "Mg",
+        "O",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:4ccde6699499",
+      "e_per_atom_eV": -4.946460300021702,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.026074141263961792,
+      "stability_rank": 9,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -5.141799449920654,
+      "potential_agreement_meV": 195.3391498989525
+    },
+    {
+      "formula": "Y2GaMg2O",
+      "formula_raw": "GaMg2OY2",
+      "file": "gen_r4_000.cif",
+      "elements": [
+        "Ga",
+        "Mg",
+        "O",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 71.6,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:629747bf0b8a",
+      "e_per_atom_eV": -4.912898699442546,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.02344644069671631,
+      "stability_rank": 10,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -5.158838748931885,
+      "potential_agreement_meV": 245.9400494893389
+    },
+    {
+      "formula": "Y3ScAlGa2Ca3Mg4GeO4",
+      "formula_raw": "AlCa3Ga2GeMg4O4ScY3",
+      "file": "gen_r4_025.cif",
+      "elements": [
+        "Al",
+        "Ca",
+        "Ga",
+        "Ge",
+        "Mg",
+        "O",
+        "Sc",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 63.4,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:3714364f01a7",
+      "e_per_atom_eV": -4.8849133943256575,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.02940179407596588,
+      "stability_rank": 11,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.991798400878906,
+      "potential_agreement_meV": 106.88500655324873
+    },
+    {
+      "formula": "YScAlGa2Mg4O3",
+      "formula_raw": "AlGa2Mg4O3ScY",
+      "file": "gen_r4_014.cif",
+      "elements": [
+        "Al",
+        "Ga",
+        "Mg",
+        "O",
+        "Sc",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 63.4,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:ea77edd4020d",
+      "e_per_atom_eV": -4.876233418782552,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.045958638191223145,
+      "stability_rank": 12,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -5.036177635192871,
+      "potential_agreement_meV": 159.9442164103193
+    },
+    {
+      "formula": "YGaMg2O",
+      "formula_raw": "GaMg2OY",
+      "file": "gen_r4_009.cif",
+      "elements": [
+        "Ga",
+        "Mg",
+        "O",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 71.6,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:872f99cae8ef",
+      "e_per_atom_eV": -4.677868270874024,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.008283311501145363,
+      "stability_rank": 13,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.79991340637207,
+      "potential_agreement_meV": 122.04513549804652
+    },
+    {
+      "formula": "Y2ScMg4SiGeO",
+      "formula_raw": "GeMg4OScSiY2",
+      "file": "gen_r4_008.cif",
+      "elements": [
+        "Ge",
+        "Mg",
+        "O",
+        "Sc",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Sc",
+        "pct": 1.5
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": null,
+      "thermal_stability_pct": null,
+      "flag_severity": "error",
+      "n_flags": 2,
+      "trace_id": "sha1:9187573949b4",
+      "e_per_atom_eV": -4.665600967407227,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.018440425395965576,
+      "stability_rank": 14,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.850682258605957,
+      "potential_agreement_meV": 185.0812911987303
+    },
+    {
+      "formula": "Y3AlGa2CaMg4SiGe2O2",
+      "formula_raw": "AlCaGa2Ge2Mg4O2SiY3",
+      "file": "gen_r4_018.cif",
+      "elements": [
+        "Al",
+        "Ca",
+        "Ga",
+        "Ge",
+        "Mg",
+        "O",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:19a201579c0b",
+      "e_per_atom_eV": -4.633728504180908,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.03476834297180176,
+      "stability_rank": 15,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.813144207000732,
+      "potential_agreement_meV": 179.41570281982422
+    },
+    {
+      "formula": "Y5Ga3Ca2Mg5GeO2",
+      "formula_raw": "Ca2Ga3GeMg5O2Y5",
+      "file": "gen_r4_021.cif",
+      "elements": [
+        "Ca",
+        "Ga",
+        "Ge",
+        "Mg",
+        "O",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:5e2b2d6b09dd",
+      "e_per_atom_eV": -4.516100141737196,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.027476906776428223,
+      "stability_rank": 16,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.692396640777588,
+      "potential_agreement_meV": 176.2964990403919
+    },
+    {
+      "formula": "Y2ScGa2CaMg5SiGeO2",
+      "formula_raw": "CaGa2GeMg5O2ScSiY2",
+      "file": "gen_r4_024.cif",
+      "elements": [
+        "Ca",
+        "Ga",
+        "Ge",
+        "Mg",
+        "O",
+        "Sc",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:079c4dd6a770",
+      "e_per_atom_eV": -4.483429463704427,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.040789127349853516,
+      "stability_rank": 17,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.6733245849609375,
+      "potential_agreement_meV": 189.89512125651055
+    },
+    {
+      "formula": "Y4Sc2AlGa2CaMg6Si2GeO",
+      "formula_raw": "AlCaGa2GeMg6OSc2Si2Y4",
+      "file": "gen_r4_027.cif",
+      "elements": [
+        "Al",
+        "Ca",
+        "Ga",
+        "Ge",
+        "Mg",
+        "O",
+        "Sc",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:ad0ddf761e34",
+      "e_per_atom_eV": -4.481283950805664,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.023558489978313446,
+      "stability_rank": 18,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.603265762329102,
+      "potential_agreement_meV": 121.98181152343767
+    },
+    {
+      "formula": "YScGaMg4SiO",
+      "formula_raw": "GaMg4OScSiY",
+      "file": "gen_r4_002.cif",
+      "elements": [
+        "Ga",
+        "Mg",
+        "O",
+        "Sc",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 63.4,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:89fc7bddaefb",
+      "e_per_atom_eV": -4.304956224229601,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.02549600601196289,
+      "stability_rank": 19,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.413578987121582,
+      "potential_agreement_meV": 108.62276289198114
+    },
+    {
+      "formula": "Y4Sc3Ga3Mg6SiO",
+      "formula_raw": "Ga3Mg6OSc3SiY4",
+      "file": "gen_r4_011.cif",
+      "elements": [
+        "Ga",
+        "Mg",
+        "O",
+        "Sc",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 63.4,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:3d89097d3a30",
+      "e_per_atom_eV": -4.250623914930555,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.08096224069595337,
+      "stability_rank": 20,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.037698745727539,
+      "potential_agreement_meV": 212.9251692030163
+    },
+    {
+      "formula": "YGaMg3SiGeO",
+      "formula_raw": "GaGeMg3OSiY",
+      "file": "gen_r4_004.cif",
+      "elements": [
+        "Ga",
+        "Ge",
+        "Mg",
+        "O",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:313b489c22ec",
+      "e_per_atom_eV": -4.227600574493408,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.03163221478462219,
+      "stability_rank": 21,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.451592922210693,
+      "potential_agreement_meV": 223.99234771728516
+    },
+    {
+      "formula": "YGaCaMg2O",
+      "formula_raw": "CaGaMg2OY",
+      "file": "gen_r4_023.cif",
+      "elements": [
+        "Ca",
+        "Ga",
+        "Mg",
+        "O",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 804.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:2d430b0402d1",
+      "e_per_atom_eV": -4.227317810058594,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.012701660394668579,
+      "stability_rank": 22,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.368031024932861,
+      "potential_agreement_meV": 140.71321487426758
+    },
+    {
+      "formula": "AlCaMg3O2",
+      "formula_raw": "AlCaMg3O2",
+      "file": "gen_r4_007.cif",
+      "elements": [
+        "Al",
+        "Ca",
+        "Mg",
+        "O"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Al",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": null,
+      "thermal_stability_pct": null,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:2af11ea420c8",
+      "e_per_atom_eV": -4.187253679547991,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.03765653073787689,
+      "stability_rank": 23,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.284329414367676,
+      "potential_agreement_meV": 97.07573481968446
+    },
+    {
+      "formula": "Y2Ga2CaMg4SiGeO",
+      "formula_raw": "CaGa2GeMg4OSiY2",
+      "file": "gen_r4_026.cif",
+      "elements": [
+        "Ca",
+        "Ga",
+        "Ge",
+        "Mg",
+        "O",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:999a7604eda0",
+      "e_per_atom_eV": -4.114978790283203,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.024065375328063965,
+      "stability_rank": 24,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.284176349639893,
+      "potential_agreement_meV": 169.19755935668945
+    },
+    {
+      "formula": "YGaMg3O",
+      "formula_raw": "GaMg3OY",
+      "file": "gen_r4_019.cif",
+      "elements": [
+        "Ga",
+        "Mg",
+        "O",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 71.6,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:e31eb80179bf",
+      "e_per_atom_eV": -4.061596870422363,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.024076342582702637,
+      "stability_rank": 25,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.100863933563232,
+      "potential_agreement_meV": 39.26706314086914
+    },
+    {
+      "formula": "Y4ScGa2Mg2SiO",
+      "formula_raw": "Ga2Mg2OScSiY4",
+      "file": "gen_r4_012.cif",
+      "elements": [
+        "Ga",
+        "Mg",
+        "O",
+        "Sc",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 63.4,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:7931f697f964",
+      "e_per_atom_eV": -3.748202237215909,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.010877493768930435,
+      "stability_rank": 26,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -3.745542049407959,
+      "potential_agreement_meV": 2.6601878079501873
+    },
+    {
+      "formula": "YSc3Mg4SiO",
+      "formula_raw": "Mg4OSc3SiY",
+      "file": "gen_r4_001.cif",
+      "elements": [
+        "Mg",
+        "O",
+        "Sc",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Sc",
+        "pct": 1.5
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": null,
+      "thermal_stability_pct": null,
+      "flag_severity": "error",
+      "n_flags": 2,
+      "trace_id": "sha1:f70b338287c6",
+      "e_per_atom_eV": -3.2586639404296873,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.032079439610242844,
+      "stability_rank": 27,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -3.3069584369659424,
+      "potential_agreement_meV": 48.29449653625506
+    },
+    {
+      "formula": "YAlGa2Mg4SiO",
+      "formula_raw": "AlGa2Mg4OSiY",
+      "file": "gen_r4_013.cif",
+      "elements": [
+        "Al",
+        "Ga",
+        "Mg",
+        "O",
+        "Si",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 65.9,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:a9b715cbabcb",
+      "e_per_atom_eV": -3.1572406768798826,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 7.079859898340146e-08,
+      "stability_rank": 28,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -3.4078609943389893,
+      "potential_agreement_meV": 250.62031745910662
+    },
+    {
+      "formula": "Y2ScGaMg3O3",
+      "formula_raw": "GaMg3O3ScY2",
+      "file": "gen_r4_028.cif",
+      "elements": [
+        "Ga",
+        "Mg",
+        "O",
+        "Sc",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 63.4,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:e155a34b45d9",
+      "e_per_atom_eV": -2.7241748809814452,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.016375437378883362,
+      "stability_rank": 29,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -2.9383978843688965,
+      "potential_agreement_meV": 214.22300338745126
+    },
+    {
+      "formula": "YGa2Mg8Ge2O",
+      "formula_raw": "Ga2Ge2Mg8OY",
+      "file": "gen_r4_022.cif",
+      "elements": [
+        "Ga",
+        "Ge",
+        "Mg",
+        "O",
+        "Y"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 71.6,
+      "flag_severity": "error",
+      "n_flags": 1,
+      "trace_id": "sha1:8204c586682a",
+      "e_per_atom_eV": -2.0138977595738004,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.015782490372657776,
+      "stability_rank": 30,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -2.1035451889038086,
+      "potential_agreement_meV": 89.64742933000824
+    },
+    {
+      "formula": "GaMgSiO",
+      "formula_raw": "GaMgOSi",
+      "file": "gen_r4_006.cif",
+      "elements": [
+        "Ga",
+        "Mg",
+        "O",
+        "Si"
+      ],
+      "dopant": {
+        "ion": "Cr3+",
+        "site": "Ga",
+        "pct": 1.0
+      },
+      "verdict": "REVISE",
+      "confidence": 0.4,
+      "lambda_em_nm": 790.0,
+      "thermal_stability_pct": 68.4,
+      "flag_severity": "error",
+      "n_flags": 2,
+      "trace_id": "sha1:723e7a7ce1c9",
+      "e_per_atom_eV": -0.9932097792625427,
+      "vol_change_pct": 0.0,
+      "max_force_eV_A": 0.0,
+      "stability_rank": 31,
+      "mattersim_converged": true,
+      "chgnet_e_per_atom_eV": -4.3262763023376465,
+      "potential_agreement_meV": 3333.0665230751038
+    }
+  ],
+  "mattersim_relax": {
+    "n_relaxed": 31,
+    "n_converged": 31,
+    "elapsed_s": 108.2,
+    "elapsed_avg_s": 3.49,
+    "top3_by_stability": [
+      {
+        "rank": 1,
+        "formula": "AlCaGaGdGeMgO4ScSiY3",
+        "e_per_atom_eV": -6.8683
+      },
+      {
+        "rank": 2,
+        "formula": "AlCa2Ga2GeMgO11Y2",
+        "e_per_atom_eV": -6.8464
+      },
+      {
+        "rank": 3,
+        "formula": "Al2CaMgO4ScY",
+        "e_per_atom_eV": -6.4018
+      }
+    ]
+  },
+  "chgnet_cross_validation": {
+    "n_pairs": 31,
+    "r2": 0.7746,
+    "mae_eV": 0.29,
+    "top10_agreement": [
+      {
+        "file": "gen_r4_012.cif",
+        "chgnet_e_per_atom": -3.745542049407959,
+        "mattersim_e_per_atom": -3.748202237215909,
+        "diff_eV": 0.0026601878079501873
+      },
+      {
+        "file": "gen_r4_019.cif",
+        "chgnet_e_per_atom": -4.100863933563232,
+        "mattersim_e_per_atom": -4.061596870422363,
+        "diff_eV": 0.03926706314086914
+      },
+      {
+        "file": "gen_r4_001.cif",
+        "chgnet_e_per_atom": -3.3069584369659424,
+        "mattersim_e_per_atom": -3.2586639404296873,
+        "diff_eV": 0.04829449653625506
+      },
+      {
+        "file": "gen_r4_022.cif",
+        "chgnet_e_per_atom": -2.1035451889038086,
+        "mattersim_e_per_atom": -2.0138977595738004,
+        "diff_eV": 0.08964742933000824
+      },
+      {
+        "file": "gen_r4_007.cif",
+        "chgnet_e_per_atom": -4.284329414367676,
+        "mattersim_e_per_atom": -4.187253679547991,
+        "diff_eV": 0.09707573481968446
+      },
+      {
+        "file": "gen_r4_025.cif",
+        "chgnet_e_per_atom": -4.991798400878906,
+        "mattersim_e_per_atom": -4.8849133943256575,
+        "diff_eV": 0.10688500655324873
+      },
+      {
+        "file": "gen_r4_002.cif",
+        "chgnet_e_per_atom": -4.413578987121582,
+        "mattersim_e_per_atom": -4.304956224229601,
+        "diff_eV": 0.10862276289198114
+      },
+      {
+        "file": "gen_r4_027.cif",
+        "chgnet_e_per_atom": -4.603265762329102,
+        "mattersim_e_per_atom": -4.481283950805664,
+        "diff_eV": 0.12198181152343768
+      },
+      {
+        "file": "gen_r4_009.cif",
+        "chgnet_e_per_atom": -4.79991340637207,
+        "mattersim_e_per_atom": -4.677868270874024,
+        "diff_eV": 0.12204513549804652
+      },
+      {
+        "file": "gen_r4_023.cif",
+        "chgnet_e_per_atom": -4.368031024932861,
+        "mattersim_e_per_atom": -4.227317810058594,
+        "diff_eV": 0.14071321487426758
+      }
+    ],
+    "top10_disagreement": [
+      {
+        "file": "gen_r4_006.cif",
+        "chgnet_e_per_atom": -4.3262763023376465,
+        "mattersim_e_per_atom": -0.9932097792625427,
+        "diff_eV": 3.3330665230751038
+      },
+      {
+        "file": "gen_r4_016.cif",
+        "chgnet_e_per_atom": -7.240011215209961,
+        "mattersim_e_per_atom": -6.846388244628907,
+        "diff_eV": 0.39362297058105433
+      },
+      {
+        "file": "gen_r4_010.cif",
+        "chgnet_e_per_atom": -5.460275173187256,
+        "mattersim_e_per_atom": -5.070376078287761,
+        "diff_eV": 0.38989909489949515
+      },
+      {
+        "file": "gen_r4_005.cif",
+        "chgnet_e_per_atom": -6.059480667114258,
+        "mattersim_e_per_atom": -5.683358328683036,
+        "diff_eV": 0.3761223384312222
+      },
+      {
+        "file": "gen_r4_003.cif",
+        "chgnet_e_per_atom": -7.2005157470703125,
+        "mattersim_e_per_atom": -6.868330383300782,
+        "diff_eV": 0.3321853637695309
+      },
+      {
+        "file": "gen_r4_030.cif",
+        "chgnet_e_per_atom": -6.678038597106934,
+        "mattersim_e_per_atom": -6.4017784118652346,
+        "diff_eV": 0.27626018524169904
+      },
+      {
+        "file": "gen_r4_020.cif",
+        "chgnet_e_per_atom": -5.353156089782715,
+        "mattersim_e_per_atom": -5.082094192504883,
+        "diff_eV": 0.27106189727783203
+      },
+      {
+        "file": "gen_r4_013.cif",
+        "chgnet_e_per_atom": -3.4078609943389893,
+        "mattersim_e_per_atom": -3.1572406768798826,
+        "diff_eV": 0.2506203174591066
+      },
+      {
+        "file": "gen_r4_000.cif",
+        "chgnet_e_per_atom": -5.158838748931885,
+        "mattersim_e_per_atom": -4.912898699442546,
+        "diff_eV": 0.2459400494893389
+      },
+      {
+        "file": "gen_r4_004.cif",
+        "chgnet_e_per_atom": -4.451592922210693,
+        "mattersim_e_per_atom": -4.227600574493408,
+        "diff_eV": 0.22399234771728516
+      }
+    ]
+  }
+}
